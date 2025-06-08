@@ -1,0 +1,6 @@
+Kode_barang,Nama_barang,Harga_beli,Jenis,Harga_jual,Keuntungan
+M001,Pulpen,10000,M1,11000.0,1000.0
+M002,Buku,12000,M2,14400.0,2400.0
+M003,Papan,30000,M1,33000.0,3000.0
+M004,Penghapus,5000,M1,5500.0,500.0
+M005,Penggaris,7000,M2,8400.0,1400.0
